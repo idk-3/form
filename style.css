@@ -1,0 +1,31 @@
+html{
+    background-color: blueviolet;
+}
+form{
+    background-color: rgb(0, 255, 55);
+    margin: 20px;
+    padding: 20px;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+h1{
+    border-radius: 10px;
+    background-color: blue;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 80px;
+}
+
+label{
+    font-size: 30px;
+    padding: 20px;
+    margin: 20px;
+
+}
+
+input{
+    height: 30px;
+
+}
